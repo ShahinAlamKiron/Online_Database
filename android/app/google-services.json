@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "563197927918",
+    "firebase_url": "https://userauth-55c42.firebaseio.com",
+    "project_id": "userauth-55c42",
+    "storage_bucket": "userauth-55c42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563197927918:android:2292249792d87097c9eeff",
+        "android_client_info": {
+          "package_name": "com.example.offline_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563197927918-vao6cige01b0s1buti45c6okr8epmuoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0RbwxdbRcu0e-yiDYdsxmSj5-TlKpUnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563197927918-vao6cige01b0s1buti45c6okr8epmuoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
